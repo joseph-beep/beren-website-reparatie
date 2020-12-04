@@ -30,13 +30,13 @@ body{
 	text-decoration:none;
 	padding: 5px 10px;
 	position:relative;
-	top:-10px;
+	top:5px;
 	transition: top 300ms ease;
 	border-style: solid;
 }
 
 .main-nav a:hover{
-	top:5px;
+	top:-10px;
 }
 
 .page-content{
