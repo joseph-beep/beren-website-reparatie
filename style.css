@@ -68,3 +68,7 @@ h2{
 .top-nav ul li:hover{
 	left: 4px;
 }
+
+.top-nav a{
+	text-decoration: none;
+}
