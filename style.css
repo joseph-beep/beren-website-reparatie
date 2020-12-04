@@ -32,6 +32,7 @@ body{
 	position:relative;
 	top:-10px;
 	transition: top 300ms ease;
+	border-style: solid;
 }
 
 .main-nav a:hover{
