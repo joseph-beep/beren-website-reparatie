@@ -3,6 +3,7 @@ body{
 	padding:0;
 	margin-left: 33%;
 	margin-right: 33%;
+	font-family: monospace;
 }
 
 .page {
@@ -51,7 +52,7 @@ h1{
 }
 
 h2{
-  font-family:Georgia;
+	font-family: monospace;
 }
 
 .top-nav ul{
